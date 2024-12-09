@@ -6,6 +6,7 @@
     <RootNamespace>c_sharp_shuffling_array_01</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PublishSingleFile>true</PublishSingleFile>
   </PropertyGroup>
 
 </Project>
