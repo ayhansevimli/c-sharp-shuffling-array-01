@@ -78,5 +78,5 @@ jobs:
       uses: microsoft/setup-msbuild@v2
 
     # Execute all unit tests in the solution
-    - name: Execute unit tests
-      run: dotnet publish
+    - name: Execute publish
+      run: dotnet publish -c Release --output ./
